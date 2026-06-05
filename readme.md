@@ -6,3 +6,7 @@ Tecnologias que se estan usando:
 
 Tokenizacion:
 - tokenizador de nivel de subpalabras (BPE)
+- atention mask
+
+Arquitectura Transformer:
+- Bart 
