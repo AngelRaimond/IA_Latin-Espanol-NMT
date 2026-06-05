@@ -3,6 +3,9 @@ Tecnologias que se estan usando:
 - PyTorch
 - CUDA 
 - Multiprocessing CPU 
+Pre limpieza:
+- Ventana deslizante
+
 
 Tokenizacion:
 - tokenizador de nivel de subpalabras (BPE)
@@ -10,3 +13,10 @@ Tokenizacion:
 
 Arquitectura Transformer:
 - Bart 
+
+Optinmizacion:
+- AdamW
+- Warmup
+- Seq2seqTrainingArguments
+- Suavizado
+- logits 
