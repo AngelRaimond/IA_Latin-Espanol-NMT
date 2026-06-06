@@ -20,3 +20,9 @@ Optinmizacion:
 - Seq2seqTrainingArguments
 - Suavizado
 - logits 
+
+Entrenamiento:
+
+Metricas:
+- Perplejidad
+- BLEU
